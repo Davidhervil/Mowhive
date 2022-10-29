@@ -36,7 +36,7 @@ And that's the setup!
 ### Execution 
 For executing the example, you can do
 
-    python main.py < inputfile
+    python main.py < path/to/inputfile
 
 where `inputfile` is the scenario description file with the format
 
